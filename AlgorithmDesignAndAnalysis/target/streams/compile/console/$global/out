@@ -1,0 +1,7 @@
+[debug] Starting sandboxed run...
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Waiting for thread run-main to exit
+[info] Starting scala interpreter...
+[debug]   Boot classpath: /Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_12.jdk/Contents/Home/jre/classes:/Users/chethanp/.sbt/boot/scala-2.9.2/lib/scala-library.jar
+[debug]   Classpath: /Users/chethanp/work/AlgorithmDesignAndAnalysis/target/scala-2.9.2/classes:/Users/chethanp/.sbt/boot/scala-2.9.2/lib/scala-compiler.jar:/Users/chethanp/.sbt/boot/scala-2.9.2/lib/jansi.jar:/Users/chethanp/.sbt/boot/scala-2.9.2/lib/jline.jar
+[info] 
